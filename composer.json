@@ -16,7 +16,7 @@
         "php": ">=5.3"
     },
     "autoload":     {
-        "psr-0": { "Zerai\\Bundle\\AsdoBasketBundle": "" }
+        "psr-0": { "Zerai\\AsdoBasketBundle": "" }
     },
-    "target-dir": "Zerai/Bundle/AsdoBasketBundle"
+    "target-dir": "Zerai/AsdoBasketBundle"
 }
