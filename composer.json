@@ -1,16 +1,3 @@
-{ 
-    "Name":    "Paul / library-bundle" 
-    "Description":    "This is my new Library Bundle." 
-    "Autoload":    { 
-        "Psr-0":    {    "Paul \ \ Library Bundle":    ""    } 
-    } 
-    "Target-dir":    "Paul / Library Bundle" 
-    "Require":    { 
-        "Php":    "> = 5.3.3" 
-        "Symfony / symfony":    "2.1. *" 
-    } 
-}
-
 {
     "name": "zerai/AsdoBasketBundle",
     "version": "1.0.0-alpha",
