@@ -7,9 +7,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "zerai teclai",
-            "email": "teclaizerai@gmail.com",
-            "homepage": "http://digitaalcv.nl/"
+            "name": "zerai teclai"
         }
     ],
     "require": {
