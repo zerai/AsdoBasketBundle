@@ -1,0 +1,7 @@
+parameters:
+#    zlab_asdo_basket.example.class: Zlab\AsdoBasketBundle\Example
+
+services:
+#    zlab_asdo_basket.example:
+#        class: %zlab_asdo_basket.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
