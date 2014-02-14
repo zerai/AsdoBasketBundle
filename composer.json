@@ -16,5 +16,5 @@
     "autoload":     {
         "psr-0": { "Zerai\\AsdoBasketBundle": "" }
     },
-    "target-dir": "Zerai/AsdoBasketBundle"
+    "target-dir": "Zlab/AsdoBasketBundle"
 }
